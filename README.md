@@ -6,7 +6,7 @@ Developed an interactive Excel dashboard to analyze recruitment application data
 ## Dashboard Preview
 
 <p align="center">
-  <img src="./images/recruitment_dashboard.png" width="32%" alt="Recruitment Dashboard">
+  <img src="Dashboard - HR Data Analytics.jpg" width="32%" alt="Recruitment Dashboard">
 </p>
 
 ## Key Analysis
